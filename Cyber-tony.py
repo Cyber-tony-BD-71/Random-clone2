@@ -74,7 +74,7 @@ logo =f"""⚊⚊⚊⚊⚊⚊✬✥✬⚊⚊⚊⚊⚊⚊
 AUTHOR    : Cyber-tony-BD-71
 FACEBOOK : TONY SHANKHARI
 VERSION    : 1.1
-                                   [THE BLACK HACKER USER]
+                     [THE BLACK HACKER USER]
 ⚊⚊⚊⚊⚊⚊✬✥✬⚊⚊⚊⚊⚊⚊"""
 
 
@@ -132,7 +132,7 @@ def xyz():
     os.system("clear");print(logo)
     print('           \x1b[97m[\033[37;41m  M A I N   M E N U   \033[0;m] ')
     print(f"")
-    print(f"[01] {WHITE}START RANDOM CLONING")
+    print(f"[01] {RED}START RANDOM CLONING")
     print(f"[00] {WHITE}EXIT PROGRAM ")
     print(f"")
     print(f"\033[1;91m========================================================")
@@ -162,9 +162,8 @@ def Random():
     linex()
     print(f"        \x1b[97m[\033[95;42mEXAMPLE :ðŸ‘‡\033[0;m]")
     print(f"")
-    print(' 0306 ,0300 ,0315 ,0333')
-    print(f" 0341 ,0342 ,0345 ,0349")
-    print(f" 0321 ,0316 ,0308 ,0309")
+    print(' 018")
+    print(f" 017,019,")
     print(f"")
     linex()
     code = input(' PUT CODE : ')
@@ -180,11 +179,11 @@ def Random():
     with ThreadPool(max_workers=30) as yaari:    
         clear()
         tl = str(len(user))
-        print(f" {WHITE}TOTAL IDZ             : {RED}"+tl)
+        print(f" {RED}TOTAL IDZ             : {RED}"+tl)
         print(f" {WHITE}COUNTRY YOU CHOOSE    : BANGLADESH  ")
-        print(f" {WHITE}NUMBER YOU PUT        : {RED}"+code)
+        print(f" {GREEN}NUMBER YOU PUT        : {RED}"+code)
         print(f" {WHITE}PROCESS HAS BEEN STARTED")
-        print(f" {WHITE}BE PATIENT.......")
+        print(f" {BLACK}BE PATIENT.......")
         print(f" {WHITE}TO STOP PROCESS Ctrl + Z ")
         print(f'===========================================================')
         for love in user:

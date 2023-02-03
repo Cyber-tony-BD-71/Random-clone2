@@ -163,7 +163,7 @@ def Random():
     print(f"        \x1b[97m[\033[95;42mEXAMPLE :ðŸ‘‡\033[0;m]")
     print(f"")
     print(' 018")
-    print(f" 017,019,")
+    print(f" 017,019")
     print(f"")
     linex()
     code = input(' PUT CODE : ')
